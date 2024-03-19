@@ -57,7 +57,6 @@ for CoursNight in x :
 
 
 x = '\033[32m'
-print(x,'ddos = SHAH EBLIS  GOD MAJAZY ',x)
 
 #Enter Values
 auth = ""
